@@ -1,13 +1,8 @@
-<!-- ============================================
-     ISHAN SAMBATHULA — GitHub Profile README
-     Update the sections marked with <!-- EDIT --> below
-     ============================================ -->
-
 <div align="center">
 
-#  Hey, I'm Ishan 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0D1117,100:00D9FF&height=170&text=ISHAN%20SAMBATHULA&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=16&descColor=00D9FF" width="100%"/>
 
-### Aspiring Software Engineer &nbsp;|&nbsp; AI/ML Enthusiast &nbsp;|&nbsp; Full Stack Developer &nbsp;|&nbsp Open to Interns &nbsp;
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%92%BB;Turning+Ideas+Into+Code+%F0%9F%9A%80;Always+Learning%2C+Never+Giving+Up+%F0%9F%92%AA" alt="Typing SVG" />
 
@@ -17,6 +12,12 @@
 <a href="https://x.com/Ishan15_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="mailto:ishan150607@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=ISHAN-SAMBATHULA&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub><i>⚙️ Snake animation activates after a one-time setup — see note at the bottom of this file.</i></sub>
 
 </div>
 
@@ -176,6 +177,10 @@ Smart scheduling assistant for task/timetable management with reminders and prio
 
 <br/><br/>
 
-<i>💪 Motto: Never give up.</i>
+<i> Never Give Up</i>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:0D1117,100:000000&height=90" width="100%"/>
+
+<!-- To activate the snake animation above: go to your ISHAN-SAMBATHULA/ISHAN-SAMBATHULA repo, Settings, Actions, New workflow, search "snk" by Platane, and use their template. Takes about 2 minutes. -->
