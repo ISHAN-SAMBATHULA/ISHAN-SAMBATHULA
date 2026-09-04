@@ -1,17 +1,17 @@
 <!-- ============================================
-     ISHAN — GitHub Profile README
+     ISHAN SAMBATHULA — GitHub Profile README
      Update the sections marked with <!-- EDIT --> below
      ============================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:2E9EF7&height=180&text=ISHAN%20SAMBATHULA&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Aspiring%20Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=68&descSize=17&descColor=ffffff" width="100%"/>
+#  Hey, I'm Ishan 
 
-<br/>
+### Aspiring Software Engineer &nbsp;|&nbsp; AI/ML Enthusiast &nbsp;|&nbsp; Full Stack Developer &nbsp;|&nbsp Open to Interns &nbsp;
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%92%BB;Turning+Ideas+Into+Code+%F0%9F%9A%80;Always+Learning%2C+Never+Giving+Up+%F0%9F%92%AA" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/ishansambathula150607/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/Ishan15_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -79,29 +79,40 @@
 <div align="center">
 
 <a href="https://github.com/ISHAN-SAMBATHULA/-Smart-Product-Recommender">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ISHAN-SAMBATHULA&repo=-Smart-Product-Recommender&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ISHAN-SAMBATHULA&repo=-Smart-Product-Recommender&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&border_radius=12&hide_border=false" />
 </a>
 <a href="https://github.com/ISHAN-SAMBATHULA/ai-resume-analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ISHAN-SAMBATHULA&repo=ai-resume-analyzer&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ISHAN-SAMBATHULA&repo=ai-resume-analyzer&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&border_radius=12&hide_border=false" />
 </a>
 <br/>
 <a href="https://github.com/ISHAN-SAMBATHULA/timetable-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ISHAN-SAMBATHULA&repo=timetable-project&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ISHAN-SAMBATHULA&repo=timetable-project&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&border_radius=12&hide_border=false" />
 </a>
 
 </div>
 
 ### 🔹 [Amazon Product Recommendation System](https://github.com/ISHAN-SAMBATHULA/-Smart-Product-Recommender)
 ML-based recommendation engine using collaborative and content-based filtering, with NLP sentiment analysis on reviews and an interactive Streamlit dashboard.
-`Python` `Machine Learning` `NLP` `Streamlit`
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
 ### 🔹 [AI-Powered Resume Analyzer](https://github.com/ISHAN-SAMBATHULA/ai-resume-analyzer)
 AI-based ATS resume analyzer using NLP + Gemini/OpenAI API — resume-to-JD matching, keyword extraction, and AI-driven improvement suggestions.
-`Python` `NLP` `OpenAI API` `Gemini API` `Streamlit`
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
 ### 🔹 [Smart Student Schedule Assistant](https://github.com/ISHAN-SAMBATHULA/timetable-project)
 Smart scheduling assistant for task/timetable management with reminders and priority-based organization.
-`Python` `Streamlit`
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
 ---
 
@@ -109,20 +120,20 @@ Smart scheduling assistant for task/timetable management with reminders and prio
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ISHAN-SAMBATHULA&show_icons=true&theme=radical&count_private=true&border_radius=10&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHAN-SAMBATHULA&layout=compact&theme=radical&border_radius=10&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ISHAN-SAMBATHULA&show_icons=true&count_private=true&border_radius=12&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHAN-SAMBATHULA&layout=compact&border_radius=12&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&hide_border=false" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ISHAN-SAMBATHULA&theme=radical&border_radius=10&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ISHAN-SAMBATHULA&border_radius=12&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border=00D9FF" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ISHAN-SAMBATHULA&theme=redical&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ISHAN-SAMBATHULA&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=false&border_color=00D9FF" width="95%"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ISHAN-SAMBATHULA&theme=radical&no-frame=true&row=1&margin-w=15&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=ISHAN-SAMBATHULA&theme=onedark&no-frame=false&row=1&margin-w=15&column=7" />
 
 </div>
 
@@ -165,8 +176,6 @@ Smart scheduling assistant for task/timetable management with reminders and prio
 
 <br/><br/>
 
-<i> Never Give Up</i>
+<i>💪 Motto: Never give up.</i>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,50:2C5364,100:0F2027&height=100" width="100%"/>
