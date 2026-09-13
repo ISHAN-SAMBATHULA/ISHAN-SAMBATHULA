@@ -22,7 +22,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/ISHAN-SAMBATHULA/ISHAN-SAMBATHULA/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%"/>
 
 </div>
 
@@ -152,12 +152,12 @@ Smart scheduling assistant for task/timetable management with reminders and prio
 
 <div align="center">
 
-<img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
-<img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ISHAN-SAMBATHULA&show_icons=true&count_private=true&theme=radical&border_radius=12&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&hide_border=false" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHAN-SAMBATHULA&layout=compact&theme=radical&border_radius=12&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&hide_border=false" alt="Top Languages" />
 
 <br/>
 
-<img src="./profile/streak.svg" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=ISHAN-SAMBATHULA&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak Stats" />
 
 <br/>
 
@@ -169,7 +169,7 @@ Smart scheduling assistant for task/timetable management with reminders and prio
 
 </div>
 
-> ⚙️ The stats, top-languages, and streak cards above activate once you set up the workflow files below — until then they'll show as broken images. The activity graph and trophies use live widgets and need no setup.
+> 💡 Stats and trophies fill in automatically as your public repo activity grows — commit, star, and contribute to see these light up!
 
 ---
 
