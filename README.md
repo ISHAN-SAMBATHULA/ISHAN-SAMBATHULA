@@ -34,7 +34,7 @@
 <tr>
 <td width="60%">
 
-​```typescript
+```typescript
 const ishan = {
   name:     "Ishan Sambathula",
   location: "Visakhapatnam, India 🇮🇳",
@@ -52,7 +52,7 @@ const ishan = {
 
   openTo: ["Open-source", "Hackathons", "Internships"]
 };
-​```
+```
 
 </td>
 <td width="40%" align="center">
