@@ -152,24 +152,15 @@ Smart scheduling assistant for task/timetable management with reminders and prio
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ISHAN-SAMBATHULA&show_icons=true&count_private=true&theme=radical&border_radius=12&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&hide_border=false" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHAN-SAMBATHULA&layout=compact&theme=radical&border_radius=12&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&hide_border=false" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ISHAN-SAMBATHULA&show_icons=true&count_private=true&theme=radical&border_radius=12&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&hide_border=false" alt="GitHub Stats" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=ISHAN-SAMBATHULA&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak Stats" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ISHAN-SAMBATHULA&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=false&border_color=00D9FF" alt="Contribution Activity Graph" width="95%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ISHAN-SAMBATHULA&theme=onedark&no-frame=false&row=1&margin-w=15&column=7" alt="GitHub Trophies" />
-
 </div>
 
-> 💡 Stats and trophies fill in automatically as your public repo activity grows — commit, star, and contribute to see these light up!
+> 💡 Stats fill in automatically as your public repo activity grows — commit, star, and contribute to see these light up!
 
 ---
 
