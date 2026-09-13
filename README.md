@@ -22,7 +22,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/ISHAN-SAMBATHULA/ISHAN-SAMBATHULA/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%"/>
 
 </div>
 
@@ -49,7 +49,6 @@ const ishan = {
   },
 
   interests: ["AI/ML apps", "Full-stack dev", "Problem solving"],
-  motto:     "Never give up.",
 
   openTo: ["Open-source", "Hackathons", "Internships"]
 };
@@ -153,12 +152,12 @@ Smart scheduling assistant for task/timetable management with reminders and prio
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ISHAN-SAMBATHULA&show_icons=true&count_private=true&border_radius=12&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&hide_border=false" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHAN-SAMBATHULA&layout=compact&border_radius=12&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&hide_border=false" alt="Top Languages" />
+<img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
+<img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ISHAN-SAMBATHULA&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak Stats" />
+<img src="./profile/streak.svg" alt="GitHub Streak Stats" />
 
 <br/>
 
@@ -170,7 +169,7 @@ Smart scheduling assistant for task/timetable management with reminders and prio
 
 </div>
 
-> 💡 Stats and trophies fill in automatically as your public repo activity grows — commit, star, and contribute to see these light up!
+> ⚙️ The stats, top-languages, and streak cards above activate once you set up the workflow files below — until then they'll show as broken images. The activity graph and trophies use live widgets and need no setup.
 
 ---
 
@@ -207,12 +206,4 @@ Smart scheduling assistant for task/timetable management with reminders and prio
 <a href="https://x.com/Ishan15_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
 <a href="mailto:ishan150607@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
-<br/><br/>
-
-<i>💪 Motto: Never give up.</i>
-
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:0D1117,100:000000&height=90" alt="footer banner" width="100%"/>
-
-<!-- To activate the snake animation above: go to your ISHAN-SAMBATHULA/ISHAN-SAMBATHULA repo, Settings, Actions, New workflow, search "snk" by Platane, and use their template. Takes about 2 minutes. -->
