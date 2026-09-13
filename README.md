@@ -152,7 +152,7 @@ Smart scheduling assistant for task/timetable management with reminders and prio
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ISHAN-SAMBATHULA&show_icons=true&count_private=true&theme=radical&border_radius=12&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&hide_border=false" alt="GitHub Stats" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=ISHAN-SAMBATHULA&show_icons=true&count_private=true&theme=radical&border_radius=12&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&hide_border=false" alt="GitHub Stats" />
 
 <br/>
 
