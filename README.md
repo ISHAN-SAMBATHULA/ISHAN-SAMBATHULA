@@ -103,7 +103,7 @@ Always open to internships, collaborations, and opportunities to grow as a softw
 <tr>
 <td width="100%">
 
-### 🔹 Amazon Product Recommendation System
+### 🔹 Product Recommendation System
 ML-based recommendation engine using collaborative and content-based filtering, with NLP sentiment analysis on reviews and an interactive Streamlit dashboard.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
